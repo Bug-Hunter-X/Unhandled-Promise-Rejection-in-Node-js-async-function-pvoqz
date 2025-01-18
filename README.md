@@ -1,0 +1,1 @@
+This repository contains a simple Node.js HTTP server that demonstrates an unhandled promise rejection. The server works correctly but lacks proper error handling for asynchronous operations which can lead to unexpected behavior and crashes. The solution demonstrates how to use try...catch blocks and promises to gracefully handle errors in asynchronous operations.
